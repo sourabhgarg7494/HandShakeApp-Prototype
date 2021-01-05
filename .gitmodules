@@ -1,0 +1,6 @@
+[submodule "HandShakeApp-SQL"]
+	path = HandShakeApp-SQL
+	url = https://github.com/sourabhgarg7494/HandShakeApp-SQL
+[submodule "HandShakeApp-NoSQL"]
+	path = HandShakeApp-NoSQL
+	url = https://github.com/sourabhgarg7494/HandShakeApp-NoSQL
